@@ -6,6 +6,18 @@ A human-governed, AI-assisted operating system for decomposing vague AI ideas in
 
 Public portfolio prototype. Designed for ChatGPT Project use, executive review, and workflow demonstration. Not a SaaS product, autonomous approval engine, or substitute for accountable AI governance.
 
+## Portfolio exhibit
+
+| Review question | Where to look |
+|---|---|
+| Status | Public portfolio prototype for AI opportunity review, ChatGPT Project use, and executive operating-governance demonstration. |
+| Best evaluator | AI operations, PMO, portfolio, product, strategy, and transformation leaders deciding whether AI ideas deserve prototype, build, buy, wait, process-first, or stop routes. |
+| Operating decision supported | What business problem, intelligence architecture, proof burden, value logic, workflow readiness, and governance controls must be visible before an AI idea receives delivery attention? |
+| Concrete example | [`examples/sample-outputs/`](examples/sample-outputs/) shows synthetic AI opportunity outputs and route recommendations. |
+| Before / after proof | Before: AI ideas arrive as demos, vendor claims, prompts, scripts, or broad automation requests. After: each idea has purpose, sensing, interpretation, decision, orchestration, learning, govern/assure controls, proof plan, and a human review route. |
+| Boundary | This system reviews opportunity quality and routing. It does not approve AI projects, select vendors, accept risk, estimate ROI from invented numbers, or replace accountable governance owners. |
+| Portfolio lane | [Review AI opportunities](https://policani.net/#navigator). |
+
 ## How to evaluate this repo
 
 Start with the README to understand the operating model, then inspect:
