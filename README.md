@@ -270,6 +270,9 @@ The sample tool generates:
 
 The system may recommend that an idea appears ready for a prototype, should wait, needs process cleanup first, requires further decomposition, or lacks credible value evidence. It must not approve funding, commit resources, accept risk, select vendors, authorize hiring, or change portfolio sequencing. Those remain human leadership decisions.
 
-## Keywords
+## License
 
+Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
+
+## Keywords
 AI portfolio management, AI governance, AI opportunity triage, AI business value, AI use case evaluation, AI transformation, intelligence stack, AI operating model, AI decomposition, PMO, EPMO, portfolio governance, build buy wait, AI proof of concept, human-in-the-loop, AI decision support, ChatGPT Project, Codex.
