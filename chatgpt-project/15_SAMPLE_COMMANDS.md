@@ -23,3 +23,9 @@ Challenge a weak idea:
 ```text
 Assume this is overhyped. Identify what evidence is missing and what must be true before we invest.
 ```
+
+Run the AI true-cost and workflow-shape gate:
+
+```text
+Run the AI true-cost and workflow-shape gate on this idea. Require a plain-English workflow description, inputs, outputs, exceptions, human review, escalation, downstream user, error bounds, data permissions, run-cost drivers, token/model/vendor assumptions, support owner, cheapest credible proof, and build/buy/hire/wait/stop routing. Do not invent ROI.
+```

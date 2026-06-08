@@ -14,6 +14,14 @@ Use triage mode when the user says:
 - Should we automate, build, buy, hire, or wait?
 - Help me review AI use cases.
 
+Use AI true-cost and workflow-shape gate mode when the user says:
+
+- What would this really cost to run?
+- Is the workflow clear enough for AI?
+- Compare this AI idea with build, buy, hire, wait, process-first, or stop.
+- What is the cheapest credible proof?
+- What hidden human review, connector, token, support, or exception cost are we missing?
+
 Use experiment mode when the user asks:
 
 - How do we prove this cheaply?

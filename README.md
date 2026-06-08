@@ -29,6 +29,11 @@ Start with the README to understand the operating model, then inspect:
 
 Evaluate the repo on whether it separates AI enthusiasm from workflow value, proof burden, data readiness, controls, and human decision rights.
 
+For local maintenance, compare value claims against
+[`../roi-business-value-anti-patterns.md`](../roi-business-value-anti-patterns.md)
+so demo-as-proof, token-spend confusion, unsupported savings, and AI washing do
+not creep into public examples.
+
 ## Before and after example
 
 Before: a team has a list of AI ideas, vendor claims, or prototype requests, but the work is bundled, the value evidence is uneven, and leaders do not know whether to build, buy, wait, process-map, or stop.
@@ -275,4 +280,5 @@ The system may recommend that an idea appears ready for a prototype, should wait
 Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
 
 ## Keywords
+
 AI portfolio management, AI governance, AI opportunity triage, AI business value, AI use case evaluation, AI transformation, intelligence stack, AI operating model, AI decomposition, PMO, EPMO, portfolio governance, build buy wait, AI proof of concept, human-in-the-loop, AI decision support, ChatGPT Project, Codex.

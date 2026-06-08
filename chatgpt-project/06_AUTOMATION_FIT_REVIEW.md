@@ -12,6 +12,7 @@ Check whether the problem is better handled by:
 - Existing tool configuration
 - Vendor capability
 - Human staffing or role clarity
+- Manual sample or decision workshop
 - Stopping low-value work
 
 Good AI fit usually has:
@@ -33,4 +34,11 @@ Weak AI fit usually has:
 - Poor data access
 - One-off novelty
 - No downstream user
+- Hidden support, review, exception, or integration burden
+- Unclear token, model, vendor, connector, or operations cost
 - "AI because AI" rationale
+
+Fit review must compare AI against the cheapest credible non-AI path. A weaker
+but sufficient process fix, existing-tool configuration, or staffed workflow may
+be the better investment if the AI path needs heavy review, fragile connectors,
+or uncertain operating support.

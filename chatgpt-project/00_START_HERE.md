@@ -11,6 +11,7 @@ Default outputs:
 - Concept intake summary
 - Intelligence stack decomposition
 - Workflow-shape review
+- AI true-cost and workflow-shape gate
 - Value and proof review
 - Data, risk, and control review
 - Route recommendation
