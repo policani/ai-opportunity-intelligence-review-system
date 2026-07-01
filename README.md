@@ -48,6 +48,30 @@ This project helps PMO, EPMO, product, operations, strategy, and AI transformati
 
 The goal is not to create another approval layer. The goal is to create an intelligence review layer.
 
+## July 2026 positioning update
+
+Customer-language research shows that buyers recognize **AI use-case intake**,
+**AI prioritization**, **ROI and feasibility review**, **duplicate-use-case
+filtering**, **proof planning**, and **human validation** faster than they
+recognize the phrase "opportunity intelligence."
+
+Use this module to answer the practical leadership question:
+
+> Which AI requests deserve delivery attention, and what must be proven before
+> we spend scarce time on them?
+
+The strongest external framing is:
+
+- tame the avalanche of internal AI requests;
+- separate workflow value from demo excitement;
+- identify process-first, wait, build, buy, prototype, and stop routes;
+- make ownership, proof burden, eval criteria, and controls visible before a
+  pilot becomes a portfolio commitment.
+
+The product is mostly structurally sound. The next capability watch item is a
+stronger portfolio view for comparing AI requests by value evidence, feasibility,
+risk, duplicate overlap, human review need, and readiness to test.
+
 ## What Problem This Solves
 
 Organizations are about to get more AI ideas, cheaper prototypes, faster demos, and louder vendor claims. That creates a portfolio risk: wasting leadership attention, scarce change capacity, and engineering time on ideas that sound AI-native but do not improve a meaningful workflow.
